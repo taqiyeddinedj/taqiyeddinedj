@@ -5,7 +5,7 @@
 
 - I am presently acquiring knowledge **in Kubernetes, cloud technologies, and delving deeper into Linux administration**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/taqiyeddine-djouani/](www.linkedin.com/in/taqiyeddine-djouani/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/taqiyeddine-djouani/](https://www.linkedin.com/in/taqiyeddine-djouani/)
 
 - 📝 I regularly write articles on [(dev.to/taqiyeddinedj)](https://dev.to/taqiyeddinedj)
 
