@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/taqiyeddine-djouani/](www.linkedin.com/in/taqiyeddine-djouani/)
 
-- 📝 I regularly write articles on [[dev.to/taqiyeddinedj](dev.to/taqiyeddinedj)](https://dev.to/taqiyeddinedj)
+- 📝 I regularly write articles on [(dev.to/taqiyeddinedj)](https://dev.to/taqiyeddinedj)
 
 - 💬 Ask me about **Linux, Devops, Cloud, Networking**
 
